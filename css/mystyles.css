@@ -1,0 +1,35 @@
+p{
+    color:rgb(0, 73, 209);
+}
+a.starbaylink{
+    background:aquamarine;
+    border-radius: 2px solid   rgb(126, 148, 248);
+    padding:2px;
+    margin:5px
+}
+a.starbaylink:hover{
+    background-color: cornflowerblue;
+    color:antiquewhite;
+}
+div.starbaydiv{
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 10px;
+    border:2px solid rgb(203, 160, 241);
+    width:95%;
+    height:100px;
+    margin:10px auto;
+}
+h4.starbaysmallh4{
+    font-size: 18px;
+}
+section#about.resume-section{
+    background-color: #bdf4b8a0;
+}
+.starbaycrop{
+    height:200px;
+    overflow:hidden;
+    object-fit:cover;
+    margin:10px 5px;
+    border-radius: 10px;
+}
